@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: Archive
+    url: /
   - title: "Blog"
     url: http://blog.numericaideas.com/
   - title: "Portfolio"

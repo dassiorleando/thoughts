@@ -125,6 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dassiorleando"
+    - label: "Tech Community"
+      icon: "fas fa-fw fa-link"
+      url: "https://discord.numericaideas.com/"
 
 # Site Footer
 footer:
@@ -141,6 +144,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dassiorleando"
+    - label: "Tech Community"
+      icon: "fas fa-fw fa-link"
+      url: "https://discord.numericaideas.com/"
 
 # Reading Files
 include:

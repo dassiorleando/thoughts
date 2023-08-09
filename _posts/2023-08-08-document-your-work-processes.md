@@ -54,11 +54,12 @@ Quelle est l'importance de la documentation pour vous ou votre organisation❓Fa
 Aimons et partageons cette publication pour répandre son importance puisqu'elle s'applique à toutes les industries.
 
 ### Follow Us 👥
-⭐ I regularly publish tech content on NumericaIdeas community that you can follow using the link below:
+⭐ I regularly publish tech content on NumericaIdeas community that you can follow using the links below:
 
 ➡️ [YouTube](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) <br/>
 ➡️ [Twitter](https://twitter.com/numericaideas) <br/>
 ➡️ [Facebook](https://facebook.com/numericaideas) <br/>
 ➡️ [LinkedIn](https://www.linkedin.com/company/numericaideas) <br/>
+➡️ [Discord](http://discord.numericaideas.com) <br/>
 
 {% include newsletter.html %}
