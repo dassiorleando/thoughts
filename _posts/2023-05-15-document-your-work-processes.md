@@ -4,8 +4,8 @@ excerpt: "Thought #1: Having your processes documented is always a BIG plus to e
 last_modified_at: 2023-05-15T09:06:00-05:00
 header:
   teaser: "assets/images/document-work-processes.png"
-  overlay_image: "assets/images/document-work-processes.png"
-  # overlay_color: "#1cd461"
+  # overlay_image: "assets/images/document-work-processes.png"
+  overlay_color: "#1db355"
 toc: true
 tags:
   - communication
