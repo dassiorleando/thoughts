@@ -2,6 +2,7 @@
 title: "Document Your Work Processes"
 excerpt: "Thought #1: Having your processes documented is always a BIG plus to ensure business continuity."
 last_modified_at: 2023-05-15T09:06:00-05:00
+comments: true
 header:
   teaser: "assets/images/document-work-processes.png"
   # overlay_image: "assets/images/document-work-processes.png"

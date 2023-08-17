@@ -2,6 +2,7 @@
 title: "Succeed in Tech"
 excerpt: "Thought #2: Ready to make it big in Tech? The key is the willingness to try and start! No matter where you are in your career journey."
 last_modified_at: 2023-08-03T13:07:00-05:00
+comments: true
 header:
   teaser: "assets/images/succeed-in-tech.png"
   # overlay_image: "assets/images/succeed-in-tech.png"
