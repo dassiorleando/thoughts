@@ -28,7 +28,7 @@ Share your thoughts and experiences. Comment below if you are starting out, in t
 Like, share, and follow me, Orleando Dassi, to be notified of more content that I publish often 🔔
 
 ### Follow Us 👥
-⭐ I regularly publish Tech content on NumericaIdeas community that you can follow using the links below:
+⭐ I regularly publish Tech content in the NumericaIdeas community that you can follow using the links below:
 
 ➡️ [YouTube](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1) <br/>
 ➡️ [Twitter](https://twitter.com/numericaideas) <br/>
